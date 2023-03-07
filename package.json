@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/phil1366/backend#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
   }
 }
